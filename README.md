@@ -1,4 +1,4 @@
-# DICOM VIEWER
+# CEREBRAL VASCULAR
 
 ## About this app
 
